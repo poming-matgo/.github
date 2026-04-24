@@ -8,8 +8,8 @@
 <br/>
 
 ## 🛠 기술 스택
-- **Backend:** Java 21, Spring WebFlux, WebSocket
-- **Data Structure:** `ConcurrentHashMap` (In-Memory)
+- **Backend:** Java 21, Spring WebFlux, WebSocket, (redis)
+- **FrontEnd:** react.js
 
 <br/>
 
