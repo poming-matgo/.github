@@ -18,4 +18,4 @@
 | Repository | Description |
 | :--- | :--- |
 | [**poming_matgo_be**](https://github.com/poming-matgo/poming_matgo_be) | **Backend Core** <br> Java 21과 WebFlux 기반의 고성능 비동기 서버 |
-| [**poming_matgo_fe**](https://github.com/poming-matgo/poming_matgo_fe) | **Frontend Core** <br> React.js 기반의 사용자 인터페이스 |
+| [**pomingMatgo_fe**](https://github.com/poming-matgo/PomingMatgo_fe) | **Frontend Core** <br> React.js 기반의 사용자 인터페이스 |
